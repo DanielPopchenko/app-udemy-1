@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
-import Concept from '../concept/Concept';
+import Concept from '../consept/Concept';
 
 const Concepts = ({ concepts }) => {
   return (
